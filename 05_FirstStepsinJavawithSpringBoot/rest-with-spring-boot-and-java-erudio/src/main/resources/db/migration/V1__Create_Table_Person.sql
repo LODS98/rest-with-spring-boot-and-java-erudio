@@ -15,3 +15,4 @@ INSERT INTO `person` (`id`, `address`, `first_name`, `gender`, `last_name`) VALU
 	(6, 'Kentucky - US', 'Muhammad', 'Male', 'Ali'),
 	(7, 'Mvezo - South Africa', 'Nelson', 'Male', 'Mandela'),
 	(8, 'Smiljan - Croatia', 'Nikola', 'Male', 'Tesla');
+personrest_with_spring_boot_erudiorest_with_spring_boot_erudio
